@@ -1,0 +1,5 @@
+﻿  first.cpp
+p:\c++ projects\firstexample\firstexample\first.cpp(34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+p:\c++ projects\firstexample\firstexample\first.cpp(143): warning C4018: '<': signed/unsigned mismatch
+p:\c++ projects\firstexample\firstexample\first.cpp(172): warning C4018: '<': signed/unsigned mismatch
+  FirstExample.vcxproj -> P:\c++ projects\FirstExample\Debug\FirstExample.exe
